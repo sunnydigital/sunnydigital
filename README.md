@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunnydigital
 - 👀 I’m interested in:
-    - A whole lot!!
+    - A whole lot!! WaoW!!
 - 🌱 I’m currently learning:
     - More niche aspects of PyTorch/Tensorflow and high-dimensional visualization methods!
 - 💞️ I’m looking to collaborate on:
