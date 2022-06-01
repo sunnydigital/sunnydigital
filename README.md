@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @sunnydigital (Sunny Son 🌞)
 - 👀 I’m interested in:
     - A whole lot!! WaoW!!
-    - No, but in all seriousness Time Series Analysis, GANS, Computer Vision, Reinforcement (specifically Q) Learning, & Applied Imaging
+    - No, but in all seriousness Time Series Analysis, GANs, Computer Vision, Reinforcement (specifically Q) Learning, & NLP
 - 🌱 I’m currently learning:
     - More niche aspects of PyTorch/Tensorflow and high-dimensional visualization methods (Plotly, and getting better at Seaborn)
+- 📚 I'm currently reading:
+    - Goedel, Escher, Bach: the Eternal Golden Braid
+    - Documentation for NeuralProphet
+    - My entire Data Structures Textbook
 - 💞️ I’m looking to collaborate on:
     - Anything and everything interesting, really! I'm currently excited about NLP/NLU and CV w/ Deep NN's!
     - Telometry data collected from the Rockstar Games x NYU DSC Datathon with interesting features when applying k-NN Imputation & t-SNE Dimensionality Reduction
