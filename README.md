@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunnydigital
+- 👋 Hi, I’m @sunnydigital (Sunny Son 🌞)
 - 👀 I’m interested in:
     - A whole lot!! WaoW!!
 - 🌱 I’m currently learning:
