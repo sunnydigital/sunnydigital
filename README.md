@@ -3,6 +3,8 @@
     - A whole lot!! WaoW!!
 - 🌱 I’m currently learning:
     - More niche aspects of PyTorch/Tensorflow and high-dimensional visualization methods!
+    - Specifically Time Series Analysis, GANs, CV
+    - Alongside packages such as Plotly
 - 💞️ I’m looking to collaborate on:
     - Anything and everything interesting, really! I'm currently excited about NLP/NLU and CV w/ Deep NN's!
 - 📫 How to reach me:
