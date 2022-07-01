@@ -8,6 +8,8 @@
     - Goedel, Escher, Bach: the Eternal Golden Braid
     - Documentation for NeuralProphet
     - My entire Data Structures Textbook
+    - Time Series Analysis by Hamilton
+    - The Principles of Deep Learning Theory by Roberts et al.
 - 💞️ I’m looking to collaborate on:
     - Anything and everything interesting, really! I'm currently excited about NLP/NLU and CV w/ Deep NN's!
     - Telometry data collected from the Rockstar Games x NYU DSC Datathon with interesting features when applying k-NN Imputation & t-SNE Dimensionality Reduction
