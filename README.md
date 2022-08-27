@@ -6,7 +6,7 @@
     - More niche aspects of PyTorch/Tensorflow and high-dimensional visualization methods (Plotly, and getting better at Seaborn)
 - 📚 I'm currently reading:
     - Goedel, Escher, Bach: the Eternal Golden Braid
-    - Touched with Fire: Manic-Depressive Illness and the Artistic Temperament
+    - Touched with Fire
     - Time Series Analysis by Hamilton
     - The Principles of Deep Learning Theory by Roberts et al.
 - 💞️ I’m looking to collaborate on:
