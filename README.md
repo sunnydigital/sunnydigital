@@ -3,9 +3,9 @@
     - A whole lot!! WaoW!!
     - No, but in all seriousness Time Series Analysis, GANs, Computer Vision, Reinforcement Learning, & NLP
 - 🌱 I’m currently learning:
-    - More niche aspects of PyTorch/Tensorflow and high-dimensional visualization methods (Plotly, and getting better at Seaborn)
-    - More effective/elegant ways of visualizing data
-    - Nuanced formats of modeling
+    - More niche aspects of PyTorch/Tensorflow 
+    - High-dimensional visualization methods (Plotly, and getting better at Seaborn)
+    - Interesting algorithms that may be applicable in the future
 - 📚 I'm currently reading:
     - Gödel, Escher, Bach: the Eternal Golden Braid
     - Time Series Analysis and Its Applications by Shumway et al.
