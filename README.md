@@ -15,7 +15,10 @@
 - 💞️ I’m looking to collaborate on:
     - Anything and everything interesting, really! I'm currently excited about NLP/NLU and CV w/ Deep NN's!
     - Utilization of ESG (Environmental, Social, Governance) Data in Determination of Ratings Importance of Corporate Sponsors
-    - Understanding Ergodicity and the relationship it has with traffic flow (heuristic application of choice in Bounded Rationality)
+- 🛠️ I'm currently working on:
+    - Utilizing Chat/GPT API to distill papers into Q/A knowledge bases to better make available esoteric information for everyone
+    - Creating an auditing platform to prevent against Deepfakes and the usage of illegitimate images
+    - 
 - 📫 How to reach me:
     - By email! sunnys2327@gmail.com
     - By LinkedIn! https://www.linkedin.com/in/sunny-son/
