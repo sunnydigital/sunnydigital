@@ -4,7 +4,8 @@
     - But in all seriousness Time Series Analysis, GANs, Computer Vision, Reinforcement Learning, & NLP
 - 🌱 I’m currently learning:
     - More niche aspects of PyTorch/Tensorflow
-        - Model/parameter visualization using tensorboard and MLOps
+        - Model/parameter visualization using TensorBoard
+        - MLOps run on Google Cloud Platform Services (Vertex AI)
     - High-dimensional visualization methods (Plotly, and getting better at Seaborn)
     - Interesting algorithms that may be applicable in the future
 - 📚 I'm currently reading:
