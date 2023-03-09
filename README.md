@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunnydigital (Sunny Son 🌞)
 - 👀 I’m interested in:
-    - A whole lot!! WaoW!!
+    - A whole lot!! Wow!
     - But in all seriousness Time Series Analysis, GANs, Computer Vision, Reinforcement Learning, & NLP
 - 🌱 I’m currently learning:
     - More niche aspects of PyTorch/Tensorflow
