@@ -16,7 +16,7 @@
     - Anything and everything interesting, really! I'm currently excited about NLP/NLU and CV w/ Deep NN's!
     - Utilization of ESG (Environmental, Social, Governance) Data in Determination of Ratings Importance of Corporate Sponsors
 - 🛠️ I'm currently working on:
-    - Utilizing Chat/GPT API to distill papers into Q/A knowledge bases to better make available esoteric information for everyone
+    - Utilizing Chat/GPT API backend with YOLOv8 to create a vision-enabled virtual assistant
     - Creating an auditing platform to prevent against Deepfakes and the usage of illegitimate images
     - Developing a blockchain-based auditing platform to act as a library of website changes
     - A News-based, generative NFT focused on events occurring in real-time
