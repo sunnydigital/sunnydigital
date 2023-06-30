@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sunnydigital (Sunny Son 🌞)
+### 👋 Hi, I’m @sunnydigital (Sunny Son 🌞)
 - 👀 I’m interested in:
     - A whole lot!! WaoW!
     - But in all seriousness Time Series Analysis, Reinforcement Learning, Diffusion Models, Computer Vision, & NLP
