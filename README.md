@@ -21,8 +21,7 @@
     - Developing a blockchain-based auditing platform to act as a library of website changes
     - A News-based, generative NFT focused on events occurring in real-time
 - 📫 How to reach me:
-    - By email! sunnys2327@gmail.com
-    - By LinkedIn! https://www.linkedin.com/in/sunny-son/
+    - Look for my socials at the side of my GitHub (Profile)[https://github.com/sunnydigital]!
 <!---
 sunnydigital/sunnydigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
