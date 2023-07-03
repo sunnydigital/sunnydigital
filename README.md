@@ -16,7 +16,7 @@
 - 📚 Books I'm immersed in:
     - 🌀 Gödel, Escher, Bach: The Eternal Golden Braid
     - 🎨 Leonardo Da Vinci by Walter Isaacson
-    - 🏃‍♂️ What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
+    - 🏃 What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
     - 🕐 Time Series Analysis and Its Applications by Shumway et al.
     - 🧠 The Principles of Deep Learning Theory by Roberts et al.
 
