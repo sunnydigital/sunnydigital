@@ -17,8 +17,6 @@
     - 🌀 Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter
     - 🎨 Leonardo Da Vinci by Walter Isaacson
     - 🏃 What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
-    - 🕐 Time Series Analysis and Its Applications by Shumway et al.
-    - 🧠 The Principles of Deep Learning Theory by Roberts et al.
 
 - 🤝 I’m eager to collaborate on:
     - 📖 Exciting projects in NLP/NLU and Computer Vision with Deep NN's!
