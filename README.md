@@ -13,10 +13,10 @@
     - 🏃 What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
 
 - 🛠️ My current projects:
-    - 💬 Integrating Chat/GPT API backend with YOLOv8 for a vision-enabled virtual assistant
+    - 💬 Integrating OpenAI GPT API backend with a custom trained YOLOv8 model for a vision-enabled virtual assistant
     - 📸 Developing an auditing platform against Deepfakes and illicit image use
     - 🌐 Creating a blockchain-based auditing platform to track website changes
-    - 📰 Generating a news-based, real-time and event-driven NFT
+    - 📰 Generating a news-based, real-time, event-driven NFT
 
 - 📫 Reach out to me:
     - 🔗 Via the links on my GitHub [Profile](https://github.com/sunnydigital)!
