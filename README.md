@@ -12,10 +12,6 @@
     - 🎨 Leonardo Da Vinci by Walter Isaacson
     - 🏃 What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
 
-- 🤝 I’m eager to collaborate on:
-    - 📖 Exciting projects in NLP/NLU and Computer Vision with Deep NN's!
-    - 🌍 The use of ESG (Environmental, Social, Governance) Data in assessing the importance of corporate sponsors
-
 - 🛠️ My current projects:
     - 💬 Integrating Chat/GPT API backend with YOLOv8 for a vision-enabled virtual assistant
     - 📸 Developing an auditing platform against Deepfakes and illicit image use
