@@ -5,18 +5,21 @@
         - 📈 Model/parameter visualization using TensorBoard
         - ⚙️ MLOps with Google Cloud Platform Services (Vertex AI)
     - 🎨 High-dimensional visualization methods (Plotly, Seaborn)
-    - 💡 Intriguing algorithms for future application
+    - ➿ Hilbert Curves as a possibility for dimensionality reduction
 
 - 📚 Books I'm immersed in:
-    - 🌀 Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter
+    - 🌀 Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter (a doozy)
     - 🎨 Leonardo Da Vinci by Walter Isaacson
     - 🏃 What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
+    - 🧮 Algorithms to Live By by Brian Christian
+    - 🔍 Making Sense by Sam Harris
+    - ➡️ Zero to One by Peter Thiel & Blake Masters
 
 - 🛠️ My current projects:
-    - 💬 Integrating OpenAI GPT API backend with a custom trained YOLOv8 model for a vision-enabled virtual assistant
+    - 💬 Integrating OpenAI GPT API backend with a custom-trained image-segmentation (most likely with YOLOv8) model for a vision-enabled virtual assistant
     - 📸 Developing an auditing platform against Deepfakes and illicit image use
     - 🌐 Creating a blockchain-based auditing platform to track website changes
-    - 📰 Generating a news-based, real-time, event-driven NFT
+    - 📰 Generating a real-time NFT
 
 - 📫 Reach out to me:
     - 🔗 Via the links on my GitHub [Profile](https://github.com/sunnydigital)!
