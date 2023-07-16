@@ -15,12 +15,6 @@
     - 🔍 Making Sense by Sam Harris
     - ➡️ Zero to One by Peter Thiel & Blake Masters
 
-- 🛠️ My current projects:
-    - 💬 Integrating OpenAI GPT API backend with a custom-trained image-segmentation (most likely with YOLOv8) model for a vision-enabled virtual assistant
-    - 📸 Developing an auditing platform against Deepfakes and illicit image use
-    - 🌐 Creating a blockchain-based auditing platform to track website changes
-    - 📰 Generating a real-time NFT
-
 - 📫 Reach out to me:
     - 🔗 Via the links on my GitHub [Profile](https://github.com/sunnydigital)!
 
