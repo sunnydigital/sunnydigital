@@ -14,6 +14,7 @@
     - 🧮 Algorithms to Live By by Brian Christian
     - 🔍 Making Sense by Sam Harris
     - ➡️ Zero to One by Peter Thiel & Blake Masters
+    - ⚛️ Six Not-So-Easy Pieces by Richard Feynman
 
 - 📫 Reach out to me:
     - 🔗 Via the links on my GitHub [Profile](https://github.com/sunnydigital)!
