@@ -9,7 +9,7 @@
 
 - 📚 Books I'm immersed in:
     - 🌀 Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter (a doozy)
-    - 🎨 Leonardo Da Vinci by Walter Isaacson
+    - 🎨 Leonardo Da Vinci by Walter Isaacson (a doozy part 2)
     - 🏃 What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
     - 🧮 Algorithms to Live By by Brian Christian
     - 🔍 Making Sense by Sam Harris
