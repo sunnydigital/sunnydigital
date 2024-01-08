@@ -1,4 +1,4 @@
-# <img src="https://github.com/sunnydigital/sunnydigital/blob/main/static/animated-wave.gif" height="20"> Hi, I’m Sunny <img src="https://github.com/sunnydigital/sunnydigital/blob/main/static/animated-sun.gif" height="24">
+# <img src="https://github.com/sunnydigital/sunnydigital/blob/main/static/animated-wave.png" height="20"> Hi, I’m Sunny <img src="https://github.com/sunnydigital/sunnydigital/blob/main/static/animated-sun.gif" height="24">
 
 - 🌱 I’m currently expanding my knowledge in:
     - 🎨 High-dimensional visualization methods (Plotly, Seaborn)
