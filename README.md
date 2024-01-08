@@ -3,10 +3,12 @@
 - 🌱 I’m currently expanding my knowledge in:
     - 🎨 High-dimensional visualization methods (Plotly, Seaborn)
     - ➿ Hilbert Curves as a possibility for dimensionality reduction
+    - ⚛️ Quantum Mechanics through [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
+    - 🧮 Fractional representations of numbers as "steps"
 
-- 📚 Books I'm immersed in:
+- 📚 Books I'm currently working on:
     - 🌀 Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter (a doozy)
-    - 🎨 Leonardo Da Vinci by Walter Isaacson (a doozy part 2)
+    - 🎨 Leonardo Da Vinci by Walter Isaacson
     - 🏃 What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
     - ➡️ Zero to One by Peter Thiel & Blake Masters
     - ⚛️ Six Not-So-Easy Pieces by Richard Feynman
