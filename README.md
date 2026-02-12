@@ -1,10 +1,8 @@
 # <img src="https://github.com/sunnydigital/sunnydigital/blob/main/static/animated-wave.png" height="24"> Hi, I’m Sunny <img src="https://github.com/sunnydigital/sunnydigital/blob/main/static/animated-sun.gif" height="24">
 
 - 🌱 I’m currently expanding my knowledge in:
-    - 🎨 High-dimensional visualization methods (Plotly, Seaborn)
     - ➿ Hilbert Curves as a possibility for dimensionality reduction
     - ⚛️ Quantum Mechanics through [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
-    - 🧮 Fractional representations of numbers as "steps"
 
 - 📚 Books I'm currently working on:
     - 🌀 Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter (a doozy)
