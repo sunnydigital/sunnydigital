@@ -8,6 +8,7 @@
 
 - 📚 Books I'm currently working on:
     - 🌀 Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter (a doozy)
+    - 🥾 A Tramp Abroad by Mark Twain
     - 🎨 Leonardo Da Vinci by Walter Isaacson
     - 🏃 What I Talk About When I Talk About Running: A Memoir by Haruki Murakami
     - ➡️ Zero to One by Peter Thiel & Blake Masters
